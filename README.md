@@ -1,24 +1,23 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this project, I was trying to learn more about machine learning, particularly how to make a model using tensorflow. I have been interested in machine learning for a long time, but I haven't tried to sit down and actually make a model till now. 
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
+I used this * [dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset) from kaggle. It is has the prices of houses a long with many other datapoints, such as square footage, airconditioning, and even if it's furnished. 
 
-{Describe your purpose for writing this software to analyze the data.}
+I wrote this software not to make a "housing price predictor" but to understand better how machine learning works. I still don't completely understand everything about the model itself. I learned a lot about data preprocessing and how to transform the data so that the model can understand it and interpret it. I also learned a lot about different models!
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
+Below is a demo video of my software.
 [Software Demo Video](https://youtu.be/_Bro66K5Fns)
 
 # Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
+I was able to read a csv file with housing data, clean it, and prepare it for use with my machine learning model. The result was a model that could fairly accurately predict how much a house should cost based off of certain pieces of data.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software.}
+I used Visual Studio code and a lot of googling to be able to learn more about tensorflow, keras, preprocessing data, and more. 
 
-{I used python 3.10.2 as my programming language. I used these modules in this project numpy, pandas, tensorflow, and keras.}
+I used python 3.10.2 as my programming language. I used these modules in this project numpy, pandas, tensorflow, and keras.
 
 # Useful Websites
 
@@ -30,7 +29,6 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I want to use a larger dataset than the one that I'm currently using to see how much that changes the algorithm's predictions.
+* I want to figure out how to save and load the model. I looked into it a bit, but it wasn't working, so I put it on the back burner.
+* I want to try different models to see if I can find one that will give me more accurate predictions.
