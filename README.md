@@ -21,7 +21,6 @@ I used python 3.10.2 as my programming language. I used these modules in this pr
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [kaggle](https://www.kaggle.com/)
 * [youtube](https://www.youtube.com/)
 * [scikit-learn](https://scikit-learn.org/stable/index.html)
